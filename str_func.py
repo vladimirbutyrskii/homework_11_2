@@ -1,6 +1,6 @@
 def input_str(str_val: str):
     """
-    Вывод текста заглавными буквами
+    Вывод текста большими буквами
     :param str_val:
     :return:
     """
